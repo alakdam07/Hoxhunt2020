@@ -3,7 +3,7 @@
 ## Task list
 
 - [x] Add hero card
-- [] Database structure
+- [ ] Database structure
 
 # App's technological background
 
