@@ -1,0 +1,2 @@
+run backend>  npm run start:back
+run frontend>npm run run start-dev
