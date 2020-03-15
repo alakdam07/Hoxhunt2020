@@ -16,7 +16,7 @@ Backend: Database layer / persistance layer is done with Typeorm, GraphQL schema
 NOTE: This app won't install with newest version of Node. Verified working version: v10.16.0
 You can use nvm to switch version by running `nvm use` in the root of the project (see .nvmrc -file)
 
-## Scripts
+## Scripts 
 
 Use yarn instead of npm, there is some bug with npm and Docz.
 
